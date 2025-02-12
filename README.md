@@ -63,5 +63,3 @@ Ensure you have the following installed on your system:
 - Check out the [Vite Documentation](https://vitejs.dev/) for more details.  
 
 ---
-
-This is an **all-in-one** `README.md` with step-by-step instructions, scripts, troubleshooting tips, and helpful links. Let me know if you need any modifications! 🚀🔥
